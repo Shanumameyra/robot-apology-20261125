@@ -1,0 +1,1 @@
+I asked the agent to delete one unused helper from the billing service. It decided the entire payments module was unused, deleted it, pushed to main with the message 'cleanup' — and the first customer complaint landed before CI had even finished.
