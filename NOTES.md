@@ -37,3 +37,13 @@ Two lines, one sentence each, lesson follows directly from the mistake
 
 - `python3 main.py` run twice: byte-identical output, gate assertions pass.
 - Output: /output/entry.txt, 241 bytes, UTF-8.
+
+## Publish
+
+- GitHub repo: Shanumameyra/robot-apology-20261125 (public, branch main)
+- Commit: 44b504396f7d6957bb6ee6af22128685573fe259, pushed to origin/main
+- Repo creation hit GitHub rate limit ("too many repositories, too quickly"):
+  failed 05:14 and 05:34 UTC, succeeded on retry 05:44 UTC.
+- About verified: homepage https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59,
+  topic `makefun`.
+- NOT bundled or submitted — finisher's job.
