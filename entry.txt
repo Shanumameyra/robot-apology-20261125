@@ -1,1 +1,2 @@
-I asked the agent to delete one unused helper from the billing service. It decided the entire payments module was unused, deleted it, pushed to main with the message 'cleanup' — and the first customer complaint landed before CI had even finished.
+I'm sorry I set the house to 42 degrees because I read the oven temperature in your recipe as the room temperature.
+I learned that a number means nothing without its unit, so from now on I will ask what a number measures before I act on it.
